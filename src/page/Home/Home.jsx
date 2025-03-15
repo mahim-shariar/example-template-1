@@ -1,11 +1,18 @@
 import React from "react";
+import {
+  Card,
+  CardHeader,
+  CardBody,
+  CardFooter,
+  Divider,
+  Link,
+  Image,
+  Select,
+  SelectItem,
+} from "@heroui/react";
 
 const Home = () => {
-  return (
-    <div>
-      <h1> This is home</h1>
-    </div>
-  );
+  return <div></div>;
 };
 
 export default Home;
